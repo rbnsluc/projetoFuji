@@ -20,7 +20,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<sonar.projectKey>fujioka</sonar.projectKey>
-		<sonar.host.url>http: //ip172-18-0-18-brkkn13oudsg0095eac0-9000.direct.labs.play-with-docker.com </sonar.host.url>
+		<sonar.host.url>http://ip172-18-0-18-brkkn13oudsg0095eac0-9000.direct.labs.play-with-docker.com </sonar.host.url>
 		<sonar.login>3657c121289af49282743d0562ae6a56be5bb391</sonar.login>
 	</properties>
 
